@@ -5,7 +5,7 @@
 **A fast, image-first viewer with RAW, EXIF and side-by-side compare.**
 One small app for macOS, Windows and Linux.
 
-[**↓ Download the latest version**](https://github.com/AdnanTemur/skera-releases/releases/latest) · [Website](https://nexylius.com) · [Report an issue](https://github.com/AdnanTemur/skera-releases/issues)
+[**↓ Download the latest version**](https://github.com/AdnanTemur/skera-releases/releases/latest) · [Website](https://skera.nexylius.com) · [Report an issue](https://github.com/AdnanTemur/skera-releases/issues)
 
 </div>
 
@@ -61,7 +61,7 @@ Get-FileHash Skera-Windows-Setup.exe -Algorithm SHA256
 ## Privacy
 
 Skera is local-only: no accounts, no servers, no telemetry. Your images never
-leave your machine. Full policy: <https://nexylius.com/privacy>.
+leave your machine. Full policy: <https://skera.nexylius.com/privacy>.
 
 ## Support
 
